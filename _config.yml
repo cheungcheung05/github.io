@@ -18,20 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title 
-email: author_email@email.com 
+title: Dive into Data: Regression Made Ridiculously Simple"
+email: Christiancheung123@gmail.com
 description: "Change the description so that it describes your blog" 
 baseurl: "/stat386-blog-theme" # the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
-footer_description: 'The default image for the site header is a random image from 
-        <a href="https://source.unsplash.com/random" target="_blank"> Unsplash</a>. 
-        The default image for the blog post is from
-        <a href="https://unsplash.com/photos/DWpR-BpKlw0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" target="_blank"
-        >Unsplash by Mohamed Elsayed</a>. Students in Stat 386 using this theme should replace both images 
-        with their own.'
+url: "https://cheungcheung05.github.io" #  change this to "https://<your-github-username>.github.io"
+image: https://images.unsplash.com/photo-1584291527908-033f4d6542c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2825&q=80
+author: Christian Cheung
+copyright: CC # Your initials or what you want the copyright to be.  Leave empty for no copyright
+footer_description:
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
