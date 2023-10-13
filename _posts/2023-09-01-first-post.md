@@ -3,9 +3,7 @@ layout: post
 title:  "From Statistics to Data Engineering: My Journey to Finding Passion"
 author: "Christian Cheung"
 image:  "https://plus.unsplash.com/premium_photo-1683140655656-20448abc55da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80"
---- 
-
-From Statistics to Data Engineering: My Journey to Finding Passion
+description: "From Statistics to Data Engineering: My Journey to Finding Passion
 
 Growing up, I always heard my father mention how lucrative and promising a career in statistics could be. Given the weight of his words and my own budding interest in numbers, I decided to major in statistics. My tryst with statistics began in high school when I took the AP stats course. The intrigue that course generated in me was a sign; I thought I had found my calling to become a statistician.
 
@@ -20,3 +18,6 @@ Yet, as fate would have it, this stint brought forth an unexpected turn. I was h
 Riding the wave of this newfound enthusiasm, I applied for a data engineering internship. The stars aligned, and I bagged the opportunity. Today, as I look back, I can’t help but marvel at the unpredictable twists and turns that have shaped my journey. From dreaming of becoming a statistician to discovering my passion for data engineering, it’s been nothing short of an adventure.
 
 To all those still searching for their true calling, remember that every experience, no matter how unexpected, plays a pivotal role in shaping your destiny. Embrace the journey with an open heart, for you never know where it might lead you.
+"
+--- 
+
