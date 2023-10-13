@@ -23,7 +23,7 @@ email: Christiancheung123@gmail.com
 description: "Change the description so that it describes your blog" 
 baseurl: "/stat386-blog-theme" # the name of the repository 
 url: "https://cheungcheung05.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://images.unsplash.com/photo-1584291527908-033f4d6542c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2825&q=80
+image: 
 author: Christian Cheung
 copyright: CC # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description:
